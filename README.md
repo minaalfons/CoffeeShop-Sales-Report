@@ -59,7 +59,7 @@ Coffee_Shop_Sales_Report/
 
 ├── SQL Queries/
 
-│   └── coffee_shop_sales_query.sql
+│   └── CoffeeShop Queries.sql
 
 ├── PowerBI/
 
@@ -67,7 +67,7 @@ Coffee_Shop_Sales_Report/
 
 ├── Data/
 
-│   └── Coffee_Shop_Sales_Data.csv
+│   └── CoffeeShop.bak
 
 ├── Images/
 

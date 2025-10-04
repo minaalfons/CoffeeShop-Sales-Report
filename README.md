@@ -101,6 +101,9 @@ DAX Reference Guide
 
 SQL Server Official Documentation
 
+#Screenshot Demo
+Show what the Dashboard looks Like: https://github.com/minaalfons/CoffeeShop-Sales-Report/blob/main/CoffeShop%20Sales%20Report.png
+
 ## My Website 
 https://minaalfons.com/
 

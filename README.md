@@ -67,7 +67,7 @@ Coffee_Shop_Sales_Report/
 
 ├── Data/
 
-│   └── CoffeeShop.bak
+│   └── Coffee Shop Sales.csv
 
 ├── Images/
 
